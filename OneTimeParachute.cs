@@ -9,7 +9,7 @@ using System.Collections.Generic;
 namespace Oxide.Plugins
 {
     [Info("One Time Parachute", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Parachutes are removed as soon as players land.")]
     public class OneTimeParachute : RustPlugin
     {
         #region Fields
